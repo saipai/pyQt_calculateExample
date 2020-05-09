@@ -100,3 +100,6 @@ if __name__ == '__main__':
     main()
 
 # made a modification here
+
+
+# making a direct commit with no staging
